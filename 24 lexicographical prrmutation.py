@@ -1,3 +1,4 @@
+##credit to Nayuki.io for the next permutation function
 def next_permutation(arr):
     # Find non-increasing suffix
     i = len(arr) - 1
